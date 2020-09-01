@@ -11,4 +11,4 @@
 
 
 
-## Now we are looking at merge conflict and resolutions by linuxuser
+## Now we are looking at merge conflict and resolutions by windows and linux users
