@@ -8,3 +8,7 @@
 ### Any changes you make in this stage are tracked and recorded for commit , which you can send to remote repo 
 ## Commit
 #### The changes are perminent and ready to push to remote repo 
+
+
+
+## Now we are looking at merge conflict and resolutions
